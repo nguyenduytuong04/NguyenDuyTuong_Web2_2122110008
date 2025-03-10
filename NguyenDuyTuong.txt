@@ -1,0 +1,20 @@
+1.Transactions
+Khái niệm
+.Transaction là một tập hợp các câu lệnh SQL được thực hiện như một đơn vị duy nhất
+.Một giao dịch đảm bảo tính toàn vẹn của dữ liệu thông qua các tính chất ACID
+.Atomicity: Tất cả các thao tác trong giao dịch đều thực hiện hoặc không có thao tác nào thực hiện
+.Consistency: Dữ liệu luôn ở trạng thái hợp lệ trước và sau giao dịch
+.Isolation: Các giao dịch không ảnh hưởng lẫn nhau khi chạy đồng thời
+.Durability: Khi giao dịch hoàn tất, dữ liệu sẽ được lưu vĩnh viễn
+2.Stored Procedure 
+Khái niệm
+.Stored Procedure là một tập hợp câu lệnh SQL được lưu trữ trong cơ sở dữ liệu và có thể được gọi để thực thi nhiều lần
+.Giúp tăng hiệu suất, bảo mật, và tái sử dụng code.
+3.Trigger
+ Khái niệm
+.Trigger là một đoạn code SQL tự động thực thi khi có sự kiện INSERT, UPDATE, DELETE xảy ra trên bảng.
+.Giúp ràng buộc dữ liệu, kiểm soát bảo mật, và tự động hóa thao tác.
+4.Index
+Khái niệm
+.Index giúp tăng tốc độ truy vấn trong cơ sở dữ liệu bằng cách tạo cấu trúc dữ liệu tối ưu.
+.Giống như mục lục của một cuốn sách, giúp tìm kiếm dữ liệu nhanh hơn.
