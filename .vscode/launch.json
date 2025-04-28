@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Example05Application",
+            "request": "launch",
+            "mainClass": "com.nguyenduytuong.example05.Example05Application",
+            "projectName": "example05"
+        },
+        {
+            "type": "java",
+            "name": "Example05Application",
+            "request": "launch",
+            "mainClass": "com.nimanluc.example05.Example05Application",
+            "projectName": "example05"
+        },
+        {
+            "type": "java",
+            "name": "Example05Application",
+            "request": "launch",
+            "mainClass": "com.nguyenanhquan.example05.Example05Application",
+            "projectName": "example05"
+        },
+        {
+            "type": "java",
+            "name": "Example05Application",
+            "request": "launch",
+            "mainClass": "com.loanthanhtung.example05.Example05Application",
+            "projectName": "example05"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Example05Application<example05>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.nguyenquocviet.example05.Example05Application",
+            "projectName": "example05",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
